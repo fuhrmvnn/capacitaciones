@@ -1,10 +1,5 @@
 <?php
 
-// Incluir archivos
-require_once get_template_directory() . '/includes/panel-empresa.php';
-require_once get_template_directory() . '/includes/panel-empresa-ajax.php';
-
-// Enqueue
 function panel_empresa_assets() {
 
     wp_enqueue_style(
