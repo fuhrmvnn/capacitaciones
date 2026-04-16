@@ -1,0 +1,22 @@
+[12-Feb-2026 21:09:29 UTC] Quiz attempt migration completed!
+[12-Feb-2026 23:14:40 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "FILE" in /Users/nabiaracenaoyaneder/Local Sites/capa/app/public/wp-content/plugins/certificados-tutor/certificados-tutor.php:10
+Stack trace:
+#0 /Users/nabiaracenaoyaneder/Local Sites/capa/app/public/wp-admin/includes/plugin.php(2400): include_once()
+#1 /Users/nabiaracenaoyaneder/Local Sites/capa/app/public/wp-admin/includes/plugin.php(673): plugin_sandbox_scrape('certificados-tu...')
+#2 /Users/nabiaracenaoyaneder/Local Sites/capa/app/public/wp-admin/plugins.php(60): activate_plugin('certificados-tu...', 'http://capa.loc...', false)
+#3 {main}
+  thrown in /Users/nabiaracenaoyaneder/Local Sites/capa/app/public/wp-content/plugins/certificados-tutor/certificados-tutor.php on line 10
+[12-Feb-2026 23:15:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "FILE" in /Users/nabiaracenaoyaneder/Local Sites/capa/app/public/wp-content/plugins/certificados-tutor/certificados-tutor.php:10
+Stack trace:
+#0 /Users/nabiaracenaoyaneder/Local Sites/capa/app/public/wp-admin/includes/plugin.php(2400): include_once()
+#1 /Users/nabiaracenaoyaneder/Local Sites/capa/app/public/wp-admin/includes/plugin.php(673): plugin_sandbox_scrape('certificados-tu...')
+#2 /Users/nabiaracenaoyaneder/Local Sites/capa/app/public/wp-admin/plugins.php(60): activate_plugin('certificados-tu...', 'http://capa.loc...', false)
+#3 {main}
+  thrown in /Users/nabiaracenaoyaneder/Local Sites/capa/app/public/wp-content/plugins/certificados-tutor/certificados-tutor.php on line 10
+[12-Feb-2026 23:17:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "FILE" in /Users/nabiaracenaoyaneder/Local Sites/capa/app/public/wp-content/plugins/certificados-tutor/certificados-tutor.php:10
+Stack trace:
+#0 /Users/nabiaracenaoyaneder/Local Sites/capa/app/public/wp-admin/includes/plugin.php(2400): include_once()
+#1 /Users/nabiaracenaoyaneder/Local Sites/capa/app/public/wp-admin/includes/plugin.php(673): plugin_sandbox_scrape('certificados-tu...')
+#2 /Users/nabiaracenaoyaneder/Local Sites/capa/app/public/wp-admin/plugins.php(60): activate_plugin('certificados-tu...', 'http://capa.loc...', false)
+#3 {main}
+  thrown in /Users/nabiaracenaoyaneder/Local Sites/capa/app/public/wp-content/plugins/certificados-tutor/certificados-tutor.php on line 10
